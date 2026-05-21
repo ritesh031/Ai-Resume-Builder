@@ -1,0 +1,91 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="1200" height="700" fill="#f9fafb"/>
+  <!-- Navbar -->
+  <rect width="1200" height="58" fill="white"/>
+  <line x1="0" y1="58" x2="1200" y2="58" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="40" y="35" font-size="16" font-weight="700" fill="#6366f1">✦ AI Resume Builder</text>
+  <text x="390" y="35" font-size="13" fill="#6b7280">Dashboard</text>
+  <text x="460" y="35" font-size="13" fill="#6b7280">Resume</text>
+  <rect x="530" y="16" width="100" height="28" rx="7" fill="#eef2ff"/>
+  <text x="580" y="35" font-size="13" font-weight="600" fill="#4f46e5" text-anchor="middle">Job Tracker</text>
+  <text x="690" y="35" font-size="13" fill="#6b7280">AI Versions</text>
+  <text x="1080" y="35" font-size="13" fill="#6b7280">Hi, <tspan font-weight="600" fill="#374151">Ritesh</tspan>  Logout</text>
+
+  <text x="40" y="100" font-size="26" font-weight="700" fill="#111827">Job Tracker</text>
+  <text x="40" y="128" font-size="14" fill="#6b7280">Track all your applications in a Kanban board.</text>
+  <rect x="1082" y="80" width="78" height="36" rx="9" fill="#6366f1"/>
+  <text x="1121" y="103" font-size="13" font-weight="500" fill="white" text-anchor="middle">+ Add Job</text>
+
+  <!-- Kanban columns -->
+  <!-- Wishlist -->
+  <rect x="40" y="155" width="208" height="32" rx="8" fill="#f3f4f6"/>
+  <circle cx="60" cy="171" r="5" fill="#6b7280"/>
+  <text x="72" y="176" font-size="12" font-weight="600" fill="#374151">Wishlist</text>
+  <rect x="202" y="160" width="30" height="22" rx="11" fill="white"/>
+  <text x="217" y="175" font-size="11" font-weight="600" fill="#6b7280" text-anchor="middle">2</text>
+
+  <rect x="40" y="197" width="208" height="80" rx="9" fill="white" stroke="#d1d5db" stroke-width="1"/>
+  <text x="60" y="222" font-size="12" font-weight="600" fill="#111827">SDE Intern</text>
+  <text x="60" y="240" font-size="11" fill="#6b7280">Google</text>
+  <rect x="40" y="288" width="208" height="80" rx="9" fill="white" stroke="#d1d5db" stroke-width="1"/>
+  <text x="60" y="313" font-size="12" font-weight="600" fill="#111827">React Developer</text>
+  <text x="60" y="331" font-size="11" fill="#6b7280">PhonePe</text>
+
+  <!-- Applied -->
+  <rect x="262" y="155" width="208" height="32" rx="8" fill="#eef2ff"/>
+  <circle cx="282" cy="171" r="5" fill="#6366f1"/>
+  <text x="294" y="176" font-size="12" font-weight="600" fill="#4f46e5">Applied</text>
+  <rect x="424" y="160" width="30" height="22" rx="11" fill="white"/>
+  <text x="439" y="175" font-size="11" font-weight="600" fill="#4f46e5" text-anchor="middle">4</text>
+
+  <rect x="262" y="197" width="208" height="80" rx="9" fill="white" stroke="#c7d2fe" stroke-width="1"/>
+  <text x="282" y="222" font-size="12" font-weight="600" fill="#111827">React Developer</text>
+  <text x="282" y="240" font-size="11" fill="#6b7280">Swiggy</text>
+  <rect x="262" y="288" width="208" height="80" rx="9" fill="white" stroke="#c7d2fe" stroke-width="1"/>
+  <text x="282" y="313" font-size="12" font-weight="600" fill="#111827">UI Engineer</text>
+  <text x="282" y="331" font-size="11" fill="#6b7280">Zomato</text>
+  <rect x="262" y="379" width="208" height="80" rx="9" fill="white" stroke="#c7d2fe" stroke-width="1"/>
+  <text x="282" y="404" font-size="12" font-weight="600" fill="#111827">Frontend Dev</text>
+  <text x="282" y="422" font-size="11" fill="#6b7280">Paytm</text>
+
+  <!-- Interview -->
+  <rect x="484" y="155" width="208" height="32" rx="8" fill="#fffbeb"/>
+  <circle cx="504" cy="171" r="5" fill="#f59e0b"/>
+  <text x="516" y="176" font-size="12" font-weight="600" fill="#d97706">Interview</text>
+  <rect x="646" y="160" width="30" height="22" rx="11" fill="white"/>
+  <text x="661" y="175" font-size="11" font-weight="600" fill="#d97706" text-anchor="middle">3</text>
+
+  <rect x="484" y="197" width="208" height="90" rx="9" fill="white" stroke="#fde68a" stroke-width="1"/>
+  <text x="504" y="222" font-size="12" font-weight="600" fill="#111827">Frontend Developer</text>
+  <text x="504" y="240" font-size="11" fill="#6b7280">Razorpay</text>
+  <text x="504" y="258" font-size="11" fill="#9ca3af">📅 May 18, 2025</text>
+  <rect x="484" y="298" width="208" height="80" rx="9" fill="white" stroke="#fde68a" stroke-width="1"/>
+  <text x="504" y="323" font-size="12" font-weight="600" fill="#111827">SDE-1</text>
+  <text x="504" y="341" font-size="11" fill="#6b7280">CRED</text>
+
+  <!-- Offer -->
+  <rect x="706" y="155" width="208" height="32" rx="8" fill="#f0fdf4"/>
+  <circle cx="726" cy="171" r="5" fill="#22c55e"/>
+  <text x="738" y="176" font-size="12" font-weight="600" fill="#16a34a">Offer</text>
+  <rect x="868" y="160" width="30" height="22" rx="11" fill="white"/>
+  <text x="883" y="175" font-size="11" font-weight="600" fill="#16a34a" text-anchor="middle">1</text>
+
+  <rect x="706" y="197" width="208" height="90" rx="9" fill="white" stroke="#bbf7d0" stroke-width="1"/>
+  <text x="726" y="222" font-size="12" font-weight="600" fill="#111827">UI Developer</text>
+  <text x="726" y="240" font-size="11" fill="#6b7280">Flipkart</text>
+  <text x="726" y="258" font-size="11" fill="#22c55e">💰 8 LPA</text>
+
+  <!-- Rejected -->
+  <rect x="928" y="155" width="232" height="32" rx="8" fill="#fef2f2"/>
+  <circle cx="948" cy="171" r="5" fill="#ef4444"/>
+  <text x="960" y="176" font-size="12" font-weight="600" fill="#dc2626">Rejected</text>
+  <rect x="1112" y="160" width="30" height="22" rx="11" fill="white"/>
+  <text x="1127" y="175" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">2</text>
+
+  <rect x="928" y="197" width="232" height="80" rx="9" fill="white" stroke="#fecaca" stroke-width="1"/>
+  <text x="948" y="222" font-size="12" font-weight="600" fill="#111827">SDE Intern</text>
+  <text x="948" y="240" font-size="11" fill="#6b7280">Amazon</text>
+  <rect x="928" y="288" width="232" height="80" rx="9" fill="white" stroke="#fecaca" stroke-width="1"/>
+  <text x="948" y="313" font-size="12" font-weight="600" fill="#111827">Developer</text>
+  <text x="948" y="331" font-size="11" fill="#6b7280">Infosys</text>
+</svg>

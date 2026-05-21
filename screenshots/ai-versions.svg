@@ -1,0 +1,70 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="1200" height="680" fill="#f9fafb"/>
+  <!-- Navbar -->
+  <rect width="1200" height="58" fill="white"/>
+  <line x1="0" y1="58" x2="1200" y2="58" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="40" y="35" font-size="16" font-weight="700" fill="#6366f1">✦ AI Resume Builder</text>
+  <text x="390" y="35" font-size="13" fill="#6b7280">Dashboard</text>
+  <text x="460" y="35" font-size="13" fill="#6b7280">Resume</text>
+  <text x="530" y="35" font-size="13" fill="#6b7280">Job Tracker</text>
+  <rect x="615" y="16" width="95" height="28" rx="7" fill="#eef2ff"/>
+  <text x="662" y="35" font-size="13" font-weight="600" fill="#4f46e5" text-anchor="middle">AI Versions</text>
+  <text x="1080" y="35" font-size="13" fill="#6b7280">Hi, <tspan font-weight="600" fill="#374151">Ritesh</tspan>  Logout</text>
+
+  <text x="40" y="100" font-size="26" font-weight="700" fill="#111827">AI Tailored Versions</text>
+  <text x="40" y="128" font-size="14" fill="#6b7280">Every time you use AI Tailor, the result is saved here. 3 tailored versions saved.</text>
+
+  <!-- Version card 1 (expanded) -->
+  <rect x="40" y="148" width="1115" height="260" rx="12" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="65" y="182" font-size="14" font-weight="600" fill="#374151">✨  Frontend Developer @ Razorpay</text>
+  <text x="65" y="202" font-size="11" fill="#9ca3af">18 May 2025</text>
+  <text x="1020" y="182" font-size="12" fill="#6b7280">⌄ Collapse</text>
+  <text x="1090" y="182" font-size="12" fill="#ef4444">🗑</text>
+
+  <!-- ATS bar -->
+  <text x="65" y="232" font-size="12" font-weight="500" fill="#6b7280">ATS Match Score</text>
+  <rect x="65" y="242" width="940" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="65" y="242" width="771" height="8" rx="4" fill="#22c55e"/>
+  <text x="1020" y="251" font-size="13" font-weight="700" fill="#22c55e">82/100</text>
+
+  <!-- Improvements -->
+  <rect x="65" y="265" width="1065" height="70" rx="9" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1"/>
+  <text x="85" y="287" font-size="12" font-weight="600" fill="#15803d">✅ AI Improvements Made:</text>
+  <text x="85" y="307" font-size="11" fill="#166534">• Added React.js, Redux keywords naturally   • Quantified achievements   • Rewrote summary for fintech focus</text>
+  <text x="85" y="324" font-size="11" fill="#166534">• Reordered skills to match JD priority   • Added REST API experience emphasis</text>
+
+  <!-- Skills row -->
+  <text x="65" y="358" font-size="12" font-weight="600" fill="#374151">🛠 Matched Skills</text>
+  <rect x="65" y="367" width="75" height="24" rx="12" fill="#eef2ff"/>
+  <text x="102" y="383" font-size="11" fill="#4f46e5" text-anchor="middle">React.js</text>
+  <rect x="150" y="367" width="65" height="24" rx="12" fill="#eef2ff"/>
+  <text x="182" y="383" font-size="11" fill="#4f46e5" text-anchor="middle">Redux</text>
+  <rect x="225" y="367" width="85" height="24" rx="12" fill="#eef2ff"/>
+  <text x="267" y="383" font-size="11" fill="#4f46e5" text-anchor="middle">REST APIs</text>
+  <rect x="320" y="367" width="100" height="24" rx="12" fill="#eef2ff"/>
+  <text x="370" y="383" font-size="11" fill="#4f46e5" text-anchor="middle">JavaScript</text>
+  <rect x="430" y="367" width="75" height="24" rx="12" fill="#eef2ff"/>
+  <text x="467" y="383" font-size="11" fill="#4f46e5" text-anchor="middle">Node.js</text>
+
+  <!-- Version card 2 (collapsed) -->
+  <rect x="40" y="425" width="1115" height="100" rx="12" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="65" y="458" font-size="14" font-weight="600" fill="#374151">✨  React Developer @ Swiggy</text>
+  <text x="65" y="478" font-size="11" fill="#9ca3af">15 May 2025</text>
+  <text x="1020" y="458" font-size="12" fill="#6b7280">⌄ Expand</text>
+  <text x="1090" y="458" font-size="12" fill="#ef4444">🗑</text>
+  <text x="65" y="506" font-size="12" font-weight="500" fill="#6b7280">ATS Match Score</text>
+  <rect x="65" y="512" width="940" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="65" y="512" width="620" height="8" rx="4" fill="#f59e0b"/>
+  <text x="1020" y="521" font-size="13" font-weight="700" fill="#f59e0b">66/100</text>
+
+  <!-- Version card 3 (collapsed) -->
+  <rect x="40" y="542" width="1115" height="100" rx="12" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="65" y="575" font-size="14" font-weight="600" fill="#374151">✨  SDE-1 @ CRED</text>
+  <text x="65" y="595" font-size="11" fill="#9ca3af">12 May 2025</text>
+  <text x="1020" y="575" font-size="12" fill="#6b7280">⌄ Expand</text>
+  <text x="1090" y="575" font-size="12" fill="#ef4444">🗑</text>
+  <text x="65" y="622" font-size="12" font-weight="500" fill="#6b7280">ATS Match Score</text>
+  <rect x="65" y="628" width="940" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="65" y="628" width="706" height="8" rx="4" fill="#22c55e"/>
+  <text x="1020" y="637" font-size="13" font-weight="700" fill="#22c55e">75/100</text>
+</svg>
