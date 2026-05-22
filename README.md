@@ -233,7 +233,7 @@ Open **http://localhost:5173** in your browser. The app is running! 🎉
 
 ## 🌐 Deployment
 
-See [DEPLOYMENT.md](./DEPLOYMENT.md) for full step-by-step deployment guide (Railway + Vercel).
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for full step-by-step deployment guide (Render + Vercel).
 
 ---
 
