@@ -41,12 +41,12 @@ export default function Login() {
         <form onSubmit={handleSubmit}>
           <div className="form-group">
             <label>Email</label>
-            <input className="input" type="email" required placeholder="you@example.com"
+            <input className="input" type="email" required placeholder="ritesh@gmail.com"
               value={form.email} onChange={e => setForm({ ...form, email: e.target.value })} />
           </div>
           <div className="form-group">
             <label>Password</label>
-            <input className="input" type="password" required placeholder="••••••••"
+            <input className="input" type="password" required placeholder="ritesh@123"
               value={form.password} onChange={e => setForm({ ...form, password: e.target.value })} />
           </div>
           <button type="submit" className="btn btn-primary btn-lg" disabled={loading}
